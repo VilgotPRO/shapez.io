@@ -1,6 +1,6 @@
 steamPage:
     shortText: shapez.io är ett spel som går ut på att automatisera skapandet av
-        former med ökande komplexitet inom den oändligt stora världen.
+        former med ökande komplexitet inom en oändligt stor värld.
     discordLinkShort: Officiell Discord
     intro: >-
         Shapez.io är att avslappnat spel där man ska bygga fabriker för att
@@ -12,8 +12,8 @@ steamPage:
 
         I början skapar man bara former, men senare behöver du även färga dem - för att uppnå detta behöver du samla och blanda färger!
 
-        På Steam kan du köpa den fulla versionen av spelet, men du kan även spela demot på shapez.io först och bestämma dig senare!
-    what_others_say: What people say about shapez.io
+        På Steam kan du köpa den fulla versionen av spelet, men du kan även spela demon på shapez.io först och bestämma dig senare!
+    what_others_say: Vad personer säger om shapez.io
     nothernlion_comment: This game is great - I'm having a wonderful time playing,
         and time has flown by.
     notch_comment: Oh crap. I really should sleep, but I think I just figured out
@@ -52,7 +52,7 @@ global:
         escape: ESC
         shift: SKIFT
         space: MELLANSLAG
-    loggingIn: Logging in
+    loggingIn: Loggar in
 demoBanners:
     title: Demo-version
     intro: Skaffa den fristående versionen för att låsa upp alla funktioner!
@@ -75,10 +75,9 @@ mainMenu:
     savegameUnnamed: Namnlöst
     puzzleMode: Puzzle Mode
     back: Back
-    puzzleDlcText: Do you enjoy compacting and optimizing factories? Get the Puzzle
-        DLC now on Steam for even more fun!
-    puzzleDlcWishlist: Wishlist now!
-    puzzleDlcViewNow: View Dlc
+    puzzleDlcText: Tycker du om att kompakta ner och optimera fabriker? Skaffa Pussel DLC nu på Steam för ännu mer roligt!
+    puzzleDlcWishlist: Lägg till i önskelistan nu!
+    puzzleDlcViewNow: Visa Dlc
 dialogs:
     buttons:
         ok: OK
@@ -92,25 +91,25 @@ dialogs:
         viewUpdate: Se uppdateringar
         showUpgrades: Visa uppgraderingar
         showKeybindings: Visa tangentbindingar
-        retry: Retry
-        continue: Continue
-        playOffline: Play Offline
+        retry: Testa igen
+        continue: Fortsätt
+        playOffline: Spela Offline
     importSavegameError:
-        title: Importfel
-        text: "Kunde inte importera sparfil:"
+        title: Importeringsfel
+        text: "Kunde inte importera spelfilen:"
     importSavegameSuccess:
-        title: Sparfil importerad
-        text: Din sparfil har blivit importerad.
+        title: Spelfil importerad
+        text: Din spelfil har blivit importerad.
     gameLoadFailure:
         title: Spel är brutet
-        text: "Kunde inte ladda sparfil:"
+        text: "Kunde inte ladda spelfil:"
     confirmSavegameDelete:
         title: Bekräfta radering
         text: Är du säker på att du vill ta bort följande spel?<br><br> '<savegameName>'
             på nivå <savegameLevel><br><br> Detta kan inte ångras!
     savegameDeletionError:
         title: Kunde inte radera
-        text: "Kunde inte radera sparfil:"
+        text: "Kunde inte radera spelfil:"
     restartRequired:
         title: Omstart krävs
         text: Du behöver starta om spelet för att applicera inställningar.
